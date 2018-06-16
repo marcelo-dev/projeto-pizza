@@ -5,6 +5,8 @@ from app.pagamento.confirmar_pedidos import *
 from app.pagamento.extrato import *
 from app.pagamento.pagamento import *
 
+
+#projetp pizza
 id_user = 1
 lista_pizza = []
 lista_bebida = []
